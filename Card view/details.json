@@ -1,0 +1,22 @@
+{
+	"details":[
+		{
+			"image":"profile2.jpg",
+			"Name":"Sreya",
+			"Email":"potlurisreya@gmail.com",
+			"resume":"../Static-Resume/Resume.html",
+			"resumeTitle":"Static Resume",
+			"git":"https://github.com/Sreya14",
+			"linkedIn":"https://www.linkedin.com/in/sreya-potluri/"
+		},
+		{
+			"image":"./profile.jpg",
+			"Name":"Potluri",
+			"Email":"potlurisreya@gmail.com",
+			"resume":"../dynamic resume/index.html",
+			"resumeTitle":"Dynamic Resume",
+			"git":"https://github.com/Sreya14",
+			"linkedIn":"https://www.linkedin.com/in/sreya-potluri/"
+		}
+	]
+}
